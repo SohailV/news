@@ -1,6 +1,6 @@
 # news
 
-A new Flutter project.
+A new Flutter project. Fetcking Data from the hackers news api and displaying it in the app.
 
 ## Getting Started
 
